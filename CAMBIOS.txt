@@ -1,9 +1,0 @@
-
-ARCHIVO MODIFICADO: pom.xml
-
-QUE SE MODIFICO:
-  Se agrego el plugin JaCoCo (jacoco-maven-plugin v0.8.12)
-  dentro del bloque <build><plugins>, porque el certamen exige una cobertura minima de 80% de lineas
-  (Line Coverage) acumulado en las tres capas bajo prueba
-  (Controladores, Servicios, Repositorios).
-
